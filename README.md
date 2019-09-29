@@ -28,7 +28,7 @@ It can also seen as a Regression problem
 - Minimize RMSE.
 - Try to provide some interpretability.
 
-#### Final Results
+### Final Results
 <table>
   <tr><th>Model</th><th>RMSE</th><tr>
   <tr><td>knn_bsl_u</td><td>1.0651583775048283</td></tr>
